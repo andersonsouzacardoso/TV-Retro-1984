@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="stylesheet" href="tv1984.css">
+            <title>TV retro 1984</title>
+        </head>
+        <body>
+            <div class="container">
+                
+                    <!--Primeira DIV representa a TV-->
+                <div class="tv">
+                                <!--Essa tag NAV representa o Painel da TV onde estão os botões-->
+                            <nav class="painel">
+                                <button class="canal" id="rbs">12</button>
+                                <button class="canal" id="band">10</button>
+                                <button class="canal" id="tve">07</button>
+                                <button class="canal" id="sbt">05</button>
+                                <button class="canal" id="record">04</button><br>
+                                <strong>-  . . . . . . . .  +</strong>  <!--Aqui coloquei um indicativo de volume +/-. -->
+                                <input type="range" min="0" max="10">    <!--Esse input é o botão de volume da TV.--> 
+                                
+                                            <!--Aqui tem dois botões de liga/desliga da TV-->
+                                        <div class="comando">
+                                            <button class="liga" id="lig">ON</button>
+                                            <button class="desliga" id="desl">OFF</button>
+                                        </div>
+                            
+                                        <!--Aqui tem uma imagem que eu criei no paint para representar a saida de som frontal da TV-->
+                                <img class="autofalante" src="./assets/saida-de-som.png" alt="saida de som">
+                            </nav>
+                            <!--Subtela é uma div extra para dar aparencia de tela de tubo das TVs antigas-->
+                    <div class="subtela">
+                            <!--A DIV tela é onde vai passar os gifs representando os canais da TV.-->
+                        <div class="tela">
+                                        <!-- Para SRC que ficou vazio, achei essa solução para tela ficar escura dando aparência de desligada.
+                                            onerror='this.style.display = "none"' onload='this.style.display = "block"'-->
+                            <img class="gif" id="canal" src="" alt="sem sinal" onerror='this.style.display = "none"' onload='this.style.display = "block"'>
+                        </div>
+                    </div>
+                </div>
+                <h1 class="copy">&reg; @anderson_souza  &copy; &trade;</h1> 
+            </div>
+            
+        </body>
+    <script src="tv1984.js"></script>
+</html>
