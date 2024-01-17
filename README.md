@@ -5,6 +5,7 @@
 ### Este foi um projeto criado para praticar meu estudos em CSS e Javascript.<br>
 ### Desafios: Usar o flebox para alinhar e organizar tela e botões com CSS e usar Funções e evento de click para que o Javascript possa dar vida ao projeto.<br>
  ## TECNOLOGIAS ULTILIZADAS:<br>
+ ## Manual do Projeto:
 <br>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
