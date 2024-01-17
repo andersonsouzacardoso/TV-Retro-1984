@@ -3,7 +3,7 @@
 <br>  Link do projeto https://andersonsouzacardoso.github.io/TV-Retro-1984/tv1984.html<br>
  ## DESCRIÇÃO DO PROJETO:<br>
 ### Este foi um projeto criado para praticar meu estudos em CSS e Javascript.<br>
-### Desafios: Usar o flebox para alinhar e organizar tela e botões com CSS e usar Funções e evento de click para que O Javascript possa dar vida ao projeto.<br>
+### Desafios: Usar o flebox para alinhar e organizar tela e botões com CSS e usar Funções e evento de click para que o Javascript possa dar vida ao projeto.<br>
  ## TECNOLOGIAS ULTILIZADAS:<br>
 <br>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br/>
