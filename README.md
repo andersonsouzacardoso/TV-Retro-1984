@@ -1,6 +1,6 @@
 ![Imagem do projeto tv1984](https://github.com/andersonsouzacardoso/TV-Retro-1984/assets/108300046/ae71f0d0-ad67-4b36-be76-90b126a51dfa)<br>
 # TV RETRO 1984. <br>:tv:
-<br>  Link do projeto https://andersonsouzacardoso.github.io/TV-Retro-1984/tv1984.html<br>
+<br>  Link do projeto https://andersonsouzacardoso.github.io/TV-Retro-1984/tv1984.html target="_blank"<br>
  ## DESCRIÇÃO DO PROJETO:<br>:computer:
 ### Este foi um projeto criado para praticar meu estudos em CSS e Javascript.<br>
 ### Desafios: Usar o flebox para alinhar e organizar tela e botões com CSS e usar Funções e evento de click para que o Javascript possa dar vida ao projeto.<br>
